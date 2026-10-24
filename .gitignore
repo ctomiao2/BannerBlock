@@ -1,2 +1,6 @@
 *.exe
 *.pdb
+frames/
+contact.png
+gen-frames.ps1
+sub-zh.txt
